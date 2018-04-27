@@ -154,7 +154,9 @@ public class LocationProvider {
             public void onLocationResult(LocationResult locationResult) {
                 super.onLocationResult(locationResult);
                 mCurrentLocation = locationResult.getLastLocation();
-                locationUpdateListner.onLocationUpdate(mCurrentLocation);
+                if (locationUpdateListner != null) {
+                    locationUpdateListner.onLocationUpdate(mCurrentLocation);
+                }
             }
         };
     }
@@ -227,7 +229,7 @@ public class LocationProvider {
                     @SuppressLint("MissingPermission")
                     @Override
                     public void onComplete(@NonNull Task<Location> task) {
-                        if (task.isSuccessful() && task.getResult() != null) {
+                        if (task != null && task.isSuccessful() && task.getResult() != null) {
                             mCurrentLocation = task.getResult();
                             locationUpdateListner.onLocationUpdate(mCurrentLocation);
                         } else {
