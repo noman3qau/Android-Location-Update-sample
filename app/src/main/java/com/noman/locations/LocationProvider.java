@@ -222,20 +222,23 @@ public class LocationProvider {
             }
 
             if (getJustCurrentLocation) {// Get Device location for one time only
+
                 mFusedLocationClient.getLastLocation().addOnCompleteListener(new OnCompleteListener<Location>() {
+                    @SuppressLint("MissingPermission")
                     @Override
                     public void onComplete(@NonNull Task<Location> task) {
                         if (task.isSuccessful() && task.getResult() != null) {
                             mCurrentLocation = task.getResult();
                             locationUpdateListner.onLocationUpdate(mCurrentLocation);
                         } else {
-                            Log.w(TAG, "getLastLocation:exception", task.getException());
+                            mLocationRequest.setNumUpdates(1);
+                            mFusedLocationClient.requestLocationUpdates(mLocationRequest, mLocationCallback, Looper.myLooper());
                         }
                     }
                 });
+
             } else {//  Get device location continuesly
-                mFusedLocationClient.requestLocationUpdates(mLocationRequest,
-                        mLocationCallback, Looper.myLooper());
+                mFusedLocationClient.requestLocationUpdates(mLocationRequest, mLocationCallback, Looper.myLooper());
             }
         }
     }
@@ -266,7 +269,7 @@ public class LocationProvider {
             mFusedLocationClient.removeLocationUpdates(mLocationCallback).addOnCompleteListener(new OnCompleteListener<Void>() {
                 @Override
                 public void onComplete(@NonNull Task<Void> task) {
-                    Toast.makeText(mContext, "Stopped!", Toast.LENGTH_SHORT).show();
+                    Log.d(TAG, "Location update stopped!");
                 }
             });
         }

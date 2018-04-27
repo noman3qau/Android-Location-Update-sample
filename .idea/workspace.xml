@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="542d7c14-f932-459e-9549-f47ed8d1594f" name="Default" comment="" />
+    <list default="true" id="79c1c2e8-bd84-4ea4-92b2-7ae41808732c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/noman/locations/LocationProvider.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/noman/locations/LocationProvider.java" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +36,81 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="LocationProvider.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/noman/locations/LocationProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="237" column="19" lean-forward="true" selection-start-line="237" selection-start-column="19" selection-end-line="237" selection-end-column="19" />
+              <folding>
+                <element signature="e#4819#5162#0" expanded="true" />
+                <element signature="e#5161#5162#0" expanded="true" />
+                <element signature="e#8228#8945#0" expanded="true" />
+                <element signature="e#8944#8945#0" expanded="true" />
+                <element signature="e#10407#10624#0" expanded="true" />
+                <element signature="e#10623#10624#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FusedLocationProviderClient.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/27f4ca04759d2cca49afb53089ca8004/jars/classes.jar!/com/google/android/gms/location/FusedLocationProviderClient.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="59" column="111" lean-forward="false" selection-start-line="59" selection-start-column="107" selection-end-line="59" selection-end-column="111" />
+              <folding>
+                <marker date="1524723099945" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1524723099945" expanded="false" signature="155:1317" ph="..." />
+                <marker date="1524723099945" expanded="true" signature="1529:1623" ph="{...}" />
+                <marker date="1524723099945" expanded="true" signature="1688:1782" ph="{...}" />
+                <marker date="1524723099945" expanded="true" signature="1788:1919" ph="@{...}" />
+                <marker date="1524723099945" expanded="false" signature="1963:1974" ph=" { " />
+                <marker date="1524723099945" expanded="false" signature="2008:2014" ph=" }" />
+                <marker date="1524723099945" expanded="true" signature="2020:2151" ph="@{...}" />
+                <marker date="1524723099945" expanded="true" signature="2216:2266" ph="{...}" />
+                <marker date="1524723099945" expanded="true" signature="2272:2403" ph="@{...}" />
+                <marker date="1524723099945" expanded="true" signature="2517:2860" ph="{...}" />
+                <marker date="1524723099945" expanded="true" signature="2866:2997" ph="@{...}" />
+                <marker date="1524723099945" expanded="true" signature="3085:3233" ph="{...}" />
+                <marker date="1524723099945" expanded="true" signature="3299:3440" ph="{...}" />
+                <marker date="1524723099945" expanded="true" signature="3509:3681" ph="{...}" />
+                <marker date="1524723099945" expanded="true" signature="3687:3818" ph="@{...}" />
+                <marker date="1524723099945" expanded="true" signature="3867:3998" ph="{...}" />
+                <marker date="1524723099945" expanded="true" signature="4004:4135" ph="@{...}" />
+                <marker date="1524723099945" expanded="true" signature="4189:4324" ph="{...}" />
+                <marker date="1524723099945" expanded="true" signature="4365:4493" ph="{...}" />
+                <marker date="1524723099945" expanded="false" signature="4557:4568" ph=" { " />
+                <marker date="1524723099945" expanded="false" signature="4595:4601" ph=" }" />
+                <marker date="1524723099945" expanded="true" signature="4645:4931" ph="{...}" />
+                <marker date="1524723099945" expanded="false" signature="4754:4769" ph=" { " />
+                <marker date="1524723099945" expanded="false" signature="4786:4796" ph=" }" />
+                <marker date="1524723099945" expanded="true" signature="4839:4925" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>onLocationUpdate</find>
+      <find>mFusedLocationClient</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -2049,11 +2144,19 @@
       </map>
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/noman/locations/LocationProvider.java" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="709" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
@@ -2069,17 +2172,39 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Android-Location-Update-sample" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="Android-Location-Update-sample" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="Android-Location-Update-sample" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="locations" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="device.picker.selection" value="cfbbf45e" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2117,7 +2242,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
@@ -2237,11 +2362,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="542d7c14-f932-459e-9549-f47ed8d1594f" name="Default" comment="" />
-      <created>1524747627031</created>
+      <changelist id="79c1c2e8-bd84-4ea4-92b2-7ae41808732c" name="Default" comment="" />
+      <created>1524802887103</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1524747627031</updated>
+      <updated>1524802887103</updated>
     </task>
     <servers />
   </component>
@@ -2249,7 +2374,7 @@
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -2257,17 +2382,17 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.64820844" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27361563" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2283,23 +2408,108 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/noman/locations/LocationProvider.java</url>
+          <line>229</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/noman/locations/LocationProvider.java</url>
+          <line>234</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/noman/locations/LocationProvider.java</url>
+          <line>154</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>task</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>task.getResult()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>task.isSuccessful()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/noman/locations/LocationProvider.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/noman/locations/MainActivity.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/27f4ca04759d2cca49afb53089ca8004/jars/classes.jar!/com/google/android/gms/location/FusedLocationProviderClient.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="123">
+          <caret line="59" column="111" lean-forward="false" selection-start-line="59" selection-start-column="107" selection-end-line="59" selection-end-column="111" />
+          <folding>
+            <marker date="1524723099945" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1524723099945" expanded="false" signature="155:1317" ph="..." />
+            <marker date="1524723099945" expanded="true" signature="1529:1623" ph="{...}" />
+            <marker date="1524723099945" expanded="true" signature="1688:1782" ph="{...}" />
+            <marker date="1524723099945" expanded="true" signature="1788:1919" ph="@{...}" />
+            <marker date="1524723099945" expanded="false" signature="1963:1974" ph=" { " />
+            <marker date="1524723099945" expanded="false" signature="2008:2014" ph=" }" />
+            <marker date="1524723099945" expanded="true" signature="2020:2151" ph="@{...}" />
+            <marker date="1524723099945" expanded="true" signature="2216:2266" ph="{...}" />
+            <marker date="1524723099945" expanded="true" signature="2272:2403" ph="@{...}" />
+            <marker date="1524723099945" expanded="true" signature="2517:2860" ph="{...}" />
+            <marker date="1524723099945" expanded="true" signature="2866:2997" ph="@{...}" />
+            <marker date="1524723099945" expanded="true" signature="3085:3233" ph="{...}" />
+            <marker date="1524723099945" expanded="true" signature="3299:3440" ph="{...}" />
+            <marker date="1524723099945" expanded="true" signature="3509:3681" ph="{...}" />
+            <marker date="1524723099945" expanded="true" signature="3687:3818" ph="@{...}" />
+            <marker date="1524723099945" expanded="true" signature="3867:3998" ph="{...}" />
+            <marker date="1524723099945" expanded="true" signature="4004:4135" ph="@{...}" />
+            <marker date="1524723099945" expanded="true" signature="4189:4324" ph="{...}" />
+            <marker date="1524723099945" expanded="true" signature="4365:4493" ph="{...}" />
+            <marker date="1524723099945" expanded="false" signature="4557:4568" ph=" { " />
+            <marker date="1524723099945" expanded="false" signature="4595:4601" ph=" }" />
+            <marker date="1524723099945" expanded="true" signature="4645:4931" ph="{...}" />
+            <marker date="1524723099945" expanded="false" signature="4754:4769" ph=" { " />
+            <marker date="1524723099945" expanded="false" signature="4786:4796" ph=" }" />
+            <marker date="1524723099945" expanded="true" signature="4839:4925" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/noman/locations/LocationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="237" column="19" lean-forward="true" selection-start-line="237" selection-start-column="19" selection-end-line="237" selection-end-column="19" />
+          <folding>
+            <element signature="e#4819#5162#0" expanded="true" />
+            <element signature="e#5161#5162#0" expanded="true" />
+            <element signature="e#8228#8945#0" expanded="true" />
+            <element signature="e#8944#8945#0" expanded="true" />
+            <element signature="e#10407#10624#0" expanded="true" />
+            <element signature="e#10623#10624#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
